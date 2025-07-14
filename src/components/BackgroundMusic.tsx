@@ -72,17 +72,17 @@ export default function BackgroundMusic() {
                 <Play className="text-white ml-1" size={24} />
               </div>
               <h3 className="text-2xl font-bold text-gray-800 mb-2">
-                🎵 Enable Background Music
+                PLAY THIS SHIT
               </h3>
               <p className="text-gray-600 mb-6">
-                Click to start the romantic background music for the best experience!
+                Simulan na ang alamat
               </p>
             </div>
             <button
               onClick={startMusic}
               className="bg-gradient-to-r from-pink-500 to-red-500 text-white px-8 py-3 rounded-full font-semibold hover:from-pink-600 hover:to-red-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
             >
-              🎶 Start Music
+              Play
             </button>
           </div>
         </div>

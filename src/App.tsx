@@ -133,14 +133,6 @@ function App() {
         >
           <Heart fillLevel={fillLevel} />
         </div>
-
-        <div className="mt-6 text-sm text-gray-500 max-w-xs mx-auto text-center">
-          {!isHeartFull ? (
-            <p>💡 Tip: Hold down your mouse or finger to continuously fill the heart!</p>
-          ) : (
-            <p>🎉 Heart is full! Click the modal to start over!</p>
-          )}
-        </div>
       </div>
 
       <BackgroundMusic />
