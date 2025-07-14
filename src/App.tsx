@@ -116,10 +116,10 @@ function App() {
       <div className="relative z-10 text-center">
         <div className="mb-8">
           <h1 className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-red-600 mb-4">
-            Heart Filler
+            HAPPY MONTHSARYY BABYYY
           </h1>
           <p className="text-xl text-gray-600 max-w-md mx-auto">
-            Click and hold the heart to fill it with love! Release to watch it slowly drain away.
+            ETONG PUSO KO PARA SAYO 0215 bhoxcz raven skrtt
           </p>
         </div>
 
