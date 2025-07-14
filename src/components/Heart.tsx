@@ -68,9 +68,9 @@ export default function Heart({ fillLevel }: HeartProps) {
             fillLevel >= 100 ? 'text-red-700 animate-pulse' :
             fillLevel < 50 ? 'text-pink-600' : 'text-red-600'}
         `}>
-          {fillLevel === 0 ? 'Click and hold to fill!' :
-           fillLevel >= 100 ? 'Heart is completely full! ❤️' :
-           'Keep clicking!'}
+          {fillLevel === 0 ? 'PINDUTIN AT DIINAN RAWR' :
+           fillLevel >= 100 ? 'NAPUNO MO WAW NGALENG' :
+           'SIGE PA ONTE NALANG!'}
         </p>
         <p className="text-sm text-gray-600 mt-1">
           Fill Level: {Math.round(fillLevel)}%
