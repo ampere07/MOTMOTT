@@ -48,8 +48,8 @@ export default function BackgroundMusic() {
         onPlay={() => setIsPlaying(true)}
         onPause={() => setIsPlaying(false)}
       >
-        {/* Using a placeholder for background music - in production, you'd use an actual audio file */}
-        <source src="https://www.soundjay.com/misc/bell-ringing-05.wav" type="audio/wav" />
+        {/* Add your music file to the public folder and update the src path */}
+        <source src="/123.mp3" type="audio/mpeg" />
       </audio>
     </div>
   );

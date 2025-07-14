@@ -25,17 +25,22 @@ export default function Modal({ isOpen, onClose }: ModalProps) {
           </div>
           
           <h2 className="text-3xl font-bold text-red-600 mb-4">
-            💖 Heart Completely Filled! 💖
+            BILOG ANG BUWAN WALA LANG ILOVEYOU
           </h2>
           
           <p className="text-gray-700 text-lg mb-6 leading-relaxed">
-            Congratulations! You've filled this heart with pure love and dedication. 
-            Your persistence has been rewarded with a heart overflowing with affection!
+            napakadami kong pag kukulang sayo napakadami kong maling nagawa sayo
+            naging pabigat ako sayo 
+            pero nanatili kapaden maraming salamt baby
+            makakabawi den ako sayo salahat ng ginastos at nagawa mo parasakin
+            mahal na mahal kita baby araw araw kitang mahahalin 
+            kahit anong mangyare saten mamahalin paden kita ng buong puso 
+            happy monthsary baby iloveyou so much more ultra wide more fully paid 1tb iloveyou babyy
           </p>
           
           <div className="bg-red-50 rounded-lg p-4 mb-6">
             <p className="text-red-800 font-semibold">
-              ✨ Achievement Unlocked: Master of Hearts ✨
+              BOSSINGGG CONGRATSSS
             </p>
           </div>
           
@@ -43,7 +48,7 @@ export default function Modal({ isOpen, onClose }: ModalProps) {
             onClick={onClose}
             className="bg-gradient-to-r from-red-500 to-pink-500 text-white px-8 py-3 rounded-full font-semibold hover:from-red-600 hover:to-pink-600 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:scale-105"
           >
-            Start Over
+            gusto mo ulitin sige kwento mo yan e
           </button>
         </div>
       </div>
